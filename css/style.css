@@ -59,7 +59,7 @@ navcolor #4e1b5b
 /* header section */
 .home {
   display: flex;
-  background: url("https://bhatkiran74.github.io/myResume/image/banner.jpg") no-repeat center;
+  background: url("https://github.com/bhatkiran74/myResume/tree/master/image/banner.jpg") no-repeat center;
   height: 100vh;
   min-height: 500px;
   font-family: "Fira Sans", sans-serif;
